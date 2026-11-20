@@ -2,8 +2,6 @@
 
 A real-time 3D particle system in C++ and raylib: 100,000 particles morph between five procedural formations, rendered with additive blending and a GPU bloom pass.
 
-[À COMPLÉTER : capture — GIF switching between the five formations with keys 1 → 5]
-
 ## Features
 
 - **100,000 particles**, each one easing towards a target position, colour and size, with a per-particle noise wobble so the shapes stay alive
